@@ -4,7 +4,7 @@ class Maestro < Formula
   homepage "https://maestro.mobile.dev"
   url "https://github.com/mobile-dev-inc/maestro/releases/download/cli-1.6.0/maestro-1.6.0.zip"
   version "1.6.0"
-  # sha256 "489236d8cb264312bf546c18f6b6a01648c95f032548a6984819870ce758b99b"
+  sha256 "af4324d7691fb8b76923dba394e2db33df988a06afded70c2bef02f39a39b9d5"
   license "Apache-2.0"
 
   depends_on "openjdk@11"
